@@ -1,3 +1,3 @@
 module github.com/mitaliradia/github-actions-workflow
 
-go 1.20.0
+go 1.20
